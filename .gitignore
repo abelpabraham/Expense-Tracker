@@ -1,0 +1,18 @@
+# Python
+*.pyc
+__pycache__/
+myenv/
+env/
+*.sqlite3
+
+# Node.js (for future React frontend)
+node_modules/
+build/
+dist/
+
+# VSCode
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
